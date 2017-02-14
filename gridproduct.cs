@@ -21,16 +21,3 @@ namespace GridProblem
         }
     }
 }
-
-
-
-// for (int index = 0; index < 2; index++)
-// {
-//     int numberConcat = gridNumbers[index*3]*10 + gridNumbers[(index*3)+1];
-//     Console.WriteLine(numberConcat);
-//     mainGrid[index] = gridNumbers[index];
-// }
-// for (int index = 0; index < 2; index++)
-// {
-//     Console.WriteLine(mainGrid[index]);
-// }
